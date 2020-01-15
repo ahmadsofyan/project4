@@ -1,5 +1,7 @@
 public class Counting {
 
+ 
+  
     public static void main(String[] args) {
         int[] num = { 3, 6, 1, 7, 2, 8, 10, 4, 9, 5 };
         sort(num,num.length);
