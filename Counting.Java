@@ -3,7 +3,7 @@ public class Counting {
  
   
     public static void main(String[] args) {
-        int[] num = { 3, 20, 12, 7, 2, 8, 10, 4, 19, 5 };
+        int[] num = { 13, 20, 12, 7, 2, 8, 10, 4, 19, 5 };
         sort(num,num.length);
  
         for (int h : num)
